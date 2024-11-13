@@ -1,0 +1,7 @@
+streamlit
+torch
+pandas
+numpy
+pydeck
+matplotlib
+scipy
