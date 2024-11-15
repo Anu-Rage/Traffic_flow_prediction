@@ -7,3 +7,6 @@ network of sensors, cities can improve road safety, reduce travel times, and mit
 congestion. This project employs Spatio-Temporal Graph Convolutional Networks
 (STGCN) to predict traffic flow patterns on a city-wide scale, leveraging both spatial and
 temporal dependencies inherent in traffic data.
+
+
+https://trafficflowpredictionusinggnn.streamlit.app/
